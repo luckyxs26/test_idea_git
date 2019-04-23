@@ -5,6 +5,7 @@ package com.luckyxs;
  * @date 2019/4/22
  */
 public class aa {
+    // 我是员工甲提交的代码
     public static void main(String[] args) {
         idGenerate("004");
     }
@@ -13,6 +14,7 @@ public class aa {
      *
      * @param idMax  查询数据库中最大的id
      */
+    // 我是员工乙提交的代码
     public static void idGenerate(String idMax){
         int idMaxInt=Integer.parseInt(idMax)+1;
         String strNum="";
