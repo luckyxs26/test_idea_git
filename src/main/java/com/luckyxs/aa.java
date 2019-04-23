@@ -5,8 +5,7 @@ package com.luckyxs;
  * @date 2019/4/22
  */
 public class aa {
-    // 我是员工甲提交的代码 我就是不要这个文件 你呢
-    // 我是员工甲提交的代码  我是员工甲的第二次改变文件
+    // 我是Feature分支的新功能
     public static void main(String[] args) {
         idGenerate("004");
     }
