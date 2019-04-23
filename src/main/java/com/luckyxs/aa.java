@@ -7,6 +7,7 @@ package com.luckyxs;
 public class aa {
     // 我是员工甲提交的代码 我就是不要这个文件 你呢
     // 我是员工甲提交的代码  我是员工甲的第二次改变文件
+    // 模拟线上分支已经被其他成员提交新功能
     public static void main(String[] args) {
         idGenerate("004");
     }
